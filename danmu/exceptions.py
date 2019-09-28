@@ -1,0 +1,4 @@
+
+
+class InitError(KeyError):
+    pass
